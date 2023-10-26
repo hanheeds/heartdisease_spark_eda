@@ -1,0 +1,12 @@
+apache-airflow
+beautifulsoup4>= 4.9.3
+matplotlib==3.7.1
+numpy==1.22.4
+pandas
+pyspark
+Requests
+scikit_learn
+pymysql
+scitkit-learn>=1.2
+boto3
+s3fs<=0.4s
